@@ -1,5 +1,9 @@
-# Exploring Why Civil Resistance Works
+## Exploring Why Civil Resistance Works
 
-This project was assigned by Professor Panos Louridas, during my Applied Machine Learning course.
+Exploring the effectiveness of nonviolent vs. violent campaigns using global resistance data and the 3.5% rule.
 
-Utilized pandas for data manipulation and preprocessing, matplotlib and seaborn for data visualization, and applied statistical models to further analyze trends and correlations.
+### Tools
+- pandas, numpy, plotly, statsmodels, lifelines, visualization libraries
+
+### Dataset
+Sources: NAVCO Dataset, Polity IV Project
